@@ -1,0 +1,18 @@
+.main_container{
+    display: flex;
+    height:  100vh;
+    padding: 25px;
+    background-color: black;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header{
+    flex: 1;
+}
+.tv_show_detail{
+    flex: 2;
+}
+.recommendations{
+    flex: 1;
+}
